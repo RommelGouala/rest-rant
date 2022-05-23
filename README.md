@@ -1,3 +1,10 @@
+Author: Rommel
+
+REST-Rant is an app where users can review restaurants.
+
+Routes for site
+
+
 | Method	| Path	      | Purpose                                |
 | :-------- | :---------: | -------------------------------------: |
 | GET	    |   /	      | Home Page                              |
