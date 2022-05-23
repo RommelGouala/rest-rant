@@ -1,5 +1,6 @@
-| Method	| Path	| Purpose |
-GET	            /	Home Page
+| Method	| Path	      | Purpose                                |
+| :-------- | :---------: | -------------------------------------- |
+| GET	    |       /	  | Home Page                              |
 GET	           /places	Places index page
 POST	       /places	Create new place
 GET	            /places/new	    Form page for creating a new place
