@@ -1,5 +1,5 @@
 | Method	| Path	      | Purpose                                |
-| :-------- | :---------: | -------------------------------------- |
+| :-------- | :---------: | -------------------------------------: |
 | GET	    |   /	      | Home Page                              |
  GET	    |   /places	  | Places index page                      |
  POST	    |  /places	  |  Create new place                      |
@@ -15,9 +15,11 @@
 
 The following information will be required for each place (restaurant)
 
-Name	Data Type	Description
-name	string	Name of restaurant
-city	string	City where restaurant is located
-state	string	State where restaurant is located
-cuisines	string	Type of food served at the restaurant
-pic	string	URL of picture of restaurant
+
+| Name	| Data Type	| Description                                |
+| :---- | --------- | -----------------------------------------: |
+ name	 |  string	|      Name of restaurant                    |
+ city	 |  string	 |     City where restaurant is located      |
+ state	 |  string	 |     State where restaurant is located     |
+ cuisines |   string |	      Type of food served at the restaurant |
+ pic	   |   string	|      URL of picture of restaurant         |
