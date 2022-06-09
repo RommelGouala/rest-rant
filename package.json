@@ -2,6 +2,7 @@
   "name": "rest-rant",
   "version": "1.0.0",
   "engines": {
+    "npm": "8.9.0",
     "node": "18.2.0"
   },
   "description": "",
